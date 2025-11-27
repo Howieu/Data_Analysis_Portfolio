@@ -1,0 +1,9 @@
+Payment.Method,Railcard,Ticket.Class,Ticket.Type,Price,Departure.Station,Arrival.Station,Departure,Scheduled.Arrival,Actual.Arrival,Journey.Status,Reason.for.Delay,Refund.Request
+Debit Card,None,First Class,Advance,54,London St Pancras,Birmingham New Street,04/01/2024 17:45,04/01/2024 19:05,04/01/2024 19:05,On Time,,No
+Credit Card,None,Standard,Advance,7,London Euston,Birmingham New Street,05/01/2024 08:15,05/01/2024 09:35,05/01/2024 09:35,On Time,,No
+Debit Card,None,Standard,Off-Peak,113,Liverpool Lime Street,London Euston,09/01/2024 15:30,09/01/2024 17:45,09/01/2024 18:07,Delayed,Staffing,No
+Contactless,Adult,Standard,Off-Peak,3,Liverpool Lime Street,Manchester Piccadilly,31/01/2024 05:45,31/01/2024 06:15,31/01/2024 06:49,Delayed,Signal Failure,No
+Credit Card,None,Standard,Off-Peak,4,Manchester Piccadilly,Liverpool Lime Street,10/02/2024 16:00,10/02/2024 16:30,,Cancelled,Technical Issue,No
+Contactless,None,Standard,Advance,3,Manchester Piccadilly,Liverpool Lime Street,25/02/2024 15:45,25/02/2024 16:15,,Cancelled,Staffing,No
+Debit Card,None,Standard,Off-Peak,126,Manchester Piccadilly,London Euston,20/03/2024 15:30,20/03/2024 17:20,20/03/2024 17:36,Delayed,Staffing,No
+Credit Card,None,Standard,Advance,22,Birmingham New Street,London St Pancras,16/04/2024 04:30,16/04/2024 05:50,,Cancelled,Signal Failure,Yes
