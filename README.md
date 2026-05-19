@@ -1,48 +1,146 @@
-# 📊 Data Analysis Portfolio
+# Data Analysis Portfolio
 
-Hi, I'm **Howie**! 👋
-Welcome to my data analysis portfolio. Here, I document my journey in data science, featuring projects involving **Data Visualization, Statistical Analysis, and Business Intelligence**.
+Hi, I'm Howie. This repository is my data analytics and data science portfolio, bringing together coursework, modelling projects, SQL/database work, dashboards, and reproducible reports.
 
-> *Focusing on extracting actionable insights from raw data.*
+The portfolio is organised around practical analytical workflows: turning raw data into structured datasets, exploring patterns, building models, communicating results, and documenting decisions.
 
----
+## Technical Stack
 
-## 🛠 Tools & Technologies
-* **Languages:** 🐍 Python (Pandas, NumPy, Scikit-learn), 📐 R, SQL
-* **Visualization:** Matplotlib, Seaborn, Tableau/PowerBI
-* **Tools:** Jupyter Notebook, LaTeX (for reporting), Git
+| Area | Tools and Methods |
+| --- | --- |
+| Programming | Python, R, SQL |
+| Python analytics | pandas, NumPy, scikit-learn, Matplotlib, Seaborn |
+| R analytics | R scripts, RStudio projects, regression modelling, statistical inference |
+| Databases | SQL schema design, ERD design, SQLite, query writing, views |
+| Machine learning | Classification, model comparison, ROC/PR evaluation, feature engineering |
+| Reporting | LaTeX, PDF reports, Word reports, Jupyter Notebook |
+| Visualisation | EDA plots, dashboard PDFs, model evaluation figures |
+| Workflow | Git/GitHub, reproducible project folders, code + report packaging |
 
----
+## Featured Projects
 
-## 📂 Featured Projects
+### 1. Rail Ticket Refund Prediction
 
-### 1. 💄 Sephora Dashboard (Sephora 看板)
-**Folder:** [`sephora看板`](./sephora看板)
+Folder: [`DATA70121_Coursework`](./DATA70121_Coursework)
 
-* **Objective:** Visualized product and sales data from Sephora to identify market trends and popular product categories.
-* **Key Skills:** Data Visualization, Dashboard Design, Business Insight Discovery.
-* **Tools Used:** [Tableau / PowerBI / Python - 请根据实际情况修改]
-* **Highlights:**
-    * Analyzed customer ratings and price distributions.
-    * Created interactive dashboards to monitor [Metric, e.g., Best-selling Brands].
+An end-to-end supervised machine learning project using rail ticket data.
 
-### 2. 🎓 Data Analysis Coursework (DATA70121)
-**Folder:** [`DATA70121_Coursework`](./DATA70121_Coursework)
+Highlights:
 
-* **Context:** Advanced coursework focusing on [Statistic and Machine Learning].
-* **Content:**
-    * Comprehensive data cleaning and exploratory data analysis (EDA).
-    * Statistical modeling and hypothesis testing using **Python/R**.
-    * Generated professional reports using **LaTeX**.
+- Cleaned and prepared structured ticketing data.
+- Performed exploratory data analysis on ticket price, travel timing, delay behaviour, refund status, and payment attributes.
+- Built modelling workflows for refund prediction.
+- Compared model performance using ROC and precision-recall style outputs.
+- Produced a LaTeX report with figures, references, and reproducible analysis code.
 
-### 3. 📈 Midterm & Academic Assignments
-**Folders:** [`midterm_coursework`](./midterm_coursework) | [`assignment_1`](./assignment_1)
+Relevant files:
 
-* **Description:** A collection of academic projects demonstrating fundamental data analysis techniques.
-* **Key Techniques:**
-    * Data wrangling and preprocessing.
-    * Regression analysis and predictive modeling.
-    * Mathematical formulation and documentation in TeX.
+- [`code_data/coursework_analysis.py`](./DATA70121_Coursework/code_data/coursework_analysis.py)
+- [`code_data/coursework_modelling.ipynb`](./DATA70121_Coursework/code_data/coursework_modelling.ipynb)
+- [`article/DATA70121_Coursework.pdf`](./DATA70121_Coursework/article/DATA70121_Coursework.pdf)
 
----
-*Thanks for visiting! Feel free to explore the folders to see the code and detailed reports.*
+Skills demonstrated:
+
+- Python data analysis
+- Feature preparation
+- Classification modelling
+- Model evaluation
+- Technical reporting
+
+### 2. SQL Database Design and Querying
+
+Folder: [`assignment_1`](./assignment_1)
+
+A database-focused project covering schema design, SQL implementation, and query development.
+
+Highlights:
+
+- Designed an entity relationship model.
+- Created and populated a relational database.
+- Wrote SQL queries and views for analysis tasks.
+- Included database artefacts, ERD documentation, and leaderboard outputs.
+
+Relevant files:
+
+- [`ERD.pdf`](./assignment_1/ERD.pdf)
+- [`create.sql`](./assignment_1/create.sql)
+- [`populate.sql`](./assignment_1/populate.sql)
+- [`view.sql`](./assignment_1/view.sql)
+
+Skills demonstrated:
+
+- SQL
+- Relational database design
+- Query optimisation mindset
+- Data modelling documentation
+
+### 3. Statistical Analysis in R
+
+Folder: [`midterm_coursework`](./midterm_coursework)
+
+A statistical modelling project using R and a structured report workflow.
+
+Highlights:
+
+- Analysed clinical-style data from `Semaglutide.csv`.
+- Built and evaluated statistical models.
+- Generated diagnostic plots, prediction intervals, and report-ready figures.
+- Packaged source code, figures, and final report outputs together.
+
+Relevant files:
+
+- [`midterm_coursework.R`](./midterm_coursework/midterm_coursework.R)
+- [`Semaglutide.csv`](./midterm_coursework/Semaglutide.csv)
+- [`MATH48011:68011_Midterm_Coursework.pdf`](./midterm_coursework/MATH48011:68011_Midterm_Coursework.pdf)
+
+Skills demonstrated:
+
+- R programming
+- Regression analysis
+- Model diagnostics
+- Statistical communication
+
+### 4. Business Intelligence Dashboard Outputs
+
+Folder: [`sephora看板`](./sephora看板)
+
+A collection of dashboard/report exports related to retail and category performance.
+
+Highlights:
+
+- Retail performance reporting
+- Category management analysis
+- Discount and member KPI reporting
+- Integrated scorecard-style business monitoring
+
+Skills demonstrated:
+
+- Business intelligence reporting
+- KPI design
+- Dashboard communication
+- Commercial analytics framing
+
+## How to Review This Portfolio
+
+Start with the project folders above. Each project keeps its code, data artefacts, figures, and report outputs together where available.
+
+Recommended review path:
+
+1. Open the project report PDF for context.
+2. Review the source code or notebook used for analysis.
+3. Check the exported figures to understand the analytical outputs.
+4. Review the SQL or modelling files for implementation detail.
+
+## Repository Map
+
+```text
+.
+├── DATA70121_Coursework/      # Python ML, EDA, modelling, LaTeX report
+├── assignment_1/              # SQL, ERD, relational database work
+├── midterm_coursework/        # R statistical analysis and report
+└── sephora看板/                # Business dashboard/report exports
+```
+
+## Contact
+
+GitHub: https://github.com/Howieu
