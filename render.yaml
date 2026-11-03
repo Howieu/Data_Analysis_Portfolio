@@ -1,0 +1,23 @@
+# Render 一键部署（新加坡区，*.onrender.com 在中国大陆可直接访问）。
+# 数据用 Supabase（容器文件系统不持久）；密钥在 Render 控制台填写，不写进仓库。
+services:
+  - type: web
+    name: zhixuan
+    runtime: docker
+    dockerfilePath: ./docker/Dockerfile.app
+    dockerContext: .
+    region: singapore
+    plan: free
+    healthCheckPath: /healthz
+    autoDeploy: true
+    envVars:
+      - key: COOKIE_SECURE
+        value: "1"
+      - key: TRUST_PROXY
+        value: "1"
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      - key: AGENT_API_KEY
+        sync: false

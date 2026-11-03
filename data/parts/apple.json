@@ -1,0 +1,1524 @@
+{
+ "source": {
+  "name": "Apple 官网",
+  "homepage": "https://www.apple.com.cn/shop",
+  "fetchedAt": "2026-11-01T18:23:57+00:00",
+  "shippingPolicy": {
+   "freeOverCents": 0,
+   "feeCents": 0,
+   "evidenceUrl": "https://www.apple.com.cn/shop/help/shipping_delivery",
+   "evidenceText": "所有线上订单均可享受免费的标准送货服务。你也可额外付费升级送货方式"
+  }
+ },
+ "products": [
+  {
+   "id": "apple-mfhp4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MFHP4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-airpods/airpods-pro-3",
+   "title": "AirPods Pro 3",
+   "brand": "Apple",
+   "model": "MFHP4CH/A",
+   "category": "earphones",
+   "priceCents": 189900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-hero-select-202509?wid=890&hei=890&fmt=jpeg&qlt=90&.v=cmp4MmZ6OWxOeHNNTXh4SzlBNUpEb1RucE9zZTI5eEREaWZpY29lSld3eUptek50N2NUQ2VXdHJ5VEVlUUpYcmJGcXNRQnFCV0w3WVRjTExvdm1ic1YxRUxFRmRlWDBITzhnRmZ5OTRmaVdKTExiOEFsRmxtQ2Nua0tRSC83MkI"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mkft4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MKFT4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-airpods/airpods-5/mkft4ch/a",
+   "title": "AirPods 5 (配无线充电盒)",
+   "brand": "Apple",
+   "model": "MKFT4CH/A",
+   "category": "earphones",
+   "priceCents": 114900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-wcc-select-202609?wid=890&hei=890&fmt=jpeg&qlt=90&.v=aFZUWmUrUDM2bFVzejhMU3AxSHJHM3lTQWtlTkVUM2txa2VlQmQrMFByN1hOajVuSnR2cU1UV3JuVjlsci9JdUJkRlpCNVhYU3AwTldRQldlSnpRa0MxOHNBWWt0T0p5T1o2U2l3bDZ4TzA"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mkfw4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MKFW4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-airpods/airpods-5/mkfw4ch/a",
+   "title": "AirPods 5",
+   "brand": "Apple",
+   "model": "MKFW4CH/A",
+   "category": "earphones",
+   "priceCents": 99900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-select-202609?wid=890&hei=890&fmt=jpeg&qlt=90&.v=eFJocjZCNlgzZlpSRHllMEpvT0N5eldWdkgxUFNscVlQMjF6cGIyR3ZpSlY2b2d0eFdmWXNCTGMyV2gxYWVkNzFzbTBrZzVkZnR6bTJYY0pBQ2w2cWQwV280dS9aTG5xeUV0d1pVbGNjZzQ"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mhwk4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MHWK4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-airpods/airpods-max-2/mhwk4ch/a",
+   "title": "AirPods Max 2",
+   "brand": "Apple",
+   "model": "MHWK4CH/A",
+   "category": "earphones",
+   "priceCents": 399900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight?wid=890&hei=890&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpyeElaendWQlBIbUpKcDJJTG9yRSt0V3lRYitwRUI2YWJPWmw1SlRXUDh5VnppQWdEZjVIVUoweGVCQnUrWEowU1ZhN1ZHY2VKVGQ4Nmx6UkdSNXd0OGI"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-myqy3fe-a",
+   "source": "Apple 官网",
+   "sourceSku": "MYQY3FE/A",
+   "url": "https://www.apple.com.cn/shop/product/myqy3fe/a",
+   "title": "EarPods (USB-C)",
+   "brand": "Apple",
+   "model": "MYQY3FE/A",
+   "category": "earphones",
+   "priceCents": 14900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTJY3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=OTgxY2dUTHB5M2dRR2dzenZ6K0g3b3ExblZJSGFXSFVPMUE2c2RxMy8rSmViWXpURHd1VTNMMmRzQVQzYjdxUHN4TStjQ1pDZXlCOVA4MERlNkFJcEE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTJY3_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=RzhNa2xuNkdvelp1Ynl6YWRjOEVUdFZhbkJla2d5Z2JVMy9NUHpmYTJ5YTNDSDkzWVI2bmF6WjhNQ1NScllOcUNPeUpYWWJNMzhOMHd2OEdTODVRNWc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTJY3_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=RWdJOEcwbEpMMnBPWlUzN3ZxRWlXdFZhbkJla2d5Z2JVMy9NUHpmYTJ5YTNDSDkzWVI2bmF6WjhNQ1NScllOcTJPV2lPOWE5WXZJRDFHSlozSVYwZ2c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTJY3_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=a0QyTTNKb1diRVNjeGVLQWxZTUZTTlZhbkJla2d5Z2JVMy9NUHpmYTJ5YTNDSDkzWVI2bmF6WjhNQ1NScllOcXNCMHZibW1KQzFXTFVvOUE1a0NsTFE"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mqtt3ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MQTT3CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mqtt3ch/a",
+   "title": "Beats Studio Pro 无线头戴式耳机 — 深咖色",
+   "brand": "Beats",
+   "model": "MQTT3CH/A",
+   "category": "earphones",
+   "priceCents": 249900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQTT3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=S0JJVlU4SDdtVUk4SURQN0ZQT0IwWXExblZJSGFXSFVPMUE2c2RxMy8rS1NDS0JaQ2poUFlNOVR5ME5PQmQ0YmR1U09zaVlmdDQ1a3YwUDh4czNzc2c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQTT3_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=WUFlNFFTNE1GeW1kWTN5U29rNmdwZFZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRFNSbklUSmhZOHJKWWxxa2hCM044a0E",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQTT3_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=WjFsb2xKd3R6dmczMlFOS3JIOUJqZFZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVREJFbWYxeUJJV2RQY2tZNHNHZkJRZ0E",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQTT3_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=RHh4SFBDUXZrVjBjQS93cy9VaVp2OVZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRDlTQnZzVjNrOTVFMW1nWUN6VHB6VHc"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-muw43ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MUW43CH/A",
+   "url": "https://www.apple.com.cn/shop/product/muw43ch/a",
+   "title": "Beats Solo 4 — 无线头戴式耳机 – 岩青色",
+   "brand": "Beats",
+   "model": "MUW43CH/A",
+   "category": "earphones",
+   "priceCents": 179900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW43?wid=890&hei=890&fmt=jpeg&qlt=90&.v=MnpLYW16YnhzNXB2b095OW10K2w0b3ExblZJSGFXSFVPMUE2c2RxMy8rSnNlVnN6Nk9JbXRKOXBHdndDeUFudWJHTjFVWnl0c0U0T1pud1B4UEN1aHc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW43_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=dnVVT1VtRlovVCs2M0c5alFKZzRvdFZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRGtVWVNYWVZ4YkFUWUxvZFpQK3I3Mnc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW43_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=M1B1YUZYRmFxay9FY29LbjI2TUpCZFZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRGJYTW9FN3hETlJUWFhCT3pGU2xSWnc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW43_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=L2NYeUZkT1RoMzB1UjIwUktES2M1ZFZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRGsxTHU1WFYvbUNwOWxSVDU2V1gxY0E"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mx743ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MX743CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mx743ch/a",
+   "title": "Powerbeats Pro 2 — 高性能耳机 — 高能橙",
+   "brand": "Beats",
+   "model": "MX743CH/A",
+   "category": "earphones",
+   "priceCents": 209900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX743?wid=890&hei=890&fmt=jpeg&qlt=90&.v=WVFIUVpKd0trNU5PMzB6akoyeSt5SXExblZJSGFXSFVPMUE2c2RxMy8rSjNqeEcvVzZaaVU2a3ptRnN4aU8wUGovUE9KcXhKNTlHR1RBR2lHbUtXcWc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX743_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=NjVpN1NINWNGdEFURTR3L2Q4V1NJTlZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRGliT1NGZUpBOEs3SW11UWg0VkVBK3c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX743_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=QnM2blU3SEFuM3p5TlBYZE5Na0tnOVZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRHJQdzlnNHlLSVpTUVJxcjlpbEdpL3c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX743_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=R25qbDBhSGt2TG0rVFpmVDhnUmpHdFZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRGtyS1hJWVkrTXJCRDIycEh6aU1Uenc"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-me2l4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "ME2L4CH/A",
+   "url": "https://www.apple.com.cn/shop/product/me2l4ch/a",
+   "title": "Powerbeats Fit — 稳固贴合的无线运动耳机 — 超能粉",
+   "brand": "Beats",
+   "model": "ME2L4CH/A",
+   "category": "earphones",
+   "priceCents": 169900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ME2L4?wid=890&hei=890&fmt=jpeg&qlt=90&.v=N0w0UjAzT0JPTXBUOTVDTmxGUkYrb3ExblZJSGFXSFVPMUE2c2RxMy8rSms2RHY0VHJHQVNLdHdhbDBScVlGWEtiYzhCbSsycXJGazZoYjArSmFLZ2c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ME2L4_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=UVpDdUhsMVRyeE9zNE05ZkJOTzd5dFZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRG56YmdGYmNnbzc2TmZBbUZXTjZvQVE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ME2L4_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=TUJwNU96WCtnRlZBdllmSDhyMEs2dFZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRGFJQi9pWDJDUXdSRFllR2lxc1pxUGc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ME2L4_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=YUFZekMyZmV3aFNUMTNmbVZsUlB6OVZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVREdxVDZCZDNXOEhFU2k3SU1HenVUYnc"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-muw03ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MUW03CH/A",
+   "url": "https://www.apple.com.cn/shop/product/muw03ch/a",
+   "title": "Beats Solo Buds - 真无线耳机 - 晶透红",
+   "brand": "Beats",
+   "model": "MUW03CH/A",
+   "category": "earphones",
+   "priceCents": 69900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW03?wid=890&hei=890&fmt=jpeg&qlt=90&.v=SVdwMzZmV0hsd2sxZnR5SHF2T0NVNHExblZJSGFXSFVPMUE2c2RxMy8rSzBvY2pCaHZ1RzAvNXJkMmZXRXJPQVplWHM4c3ppYlRKR3Vod2lkdlBTN3c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW03_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=YWhGdmVsSEZNMUk5ZXZVRGVISk5RZFZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRFNJRExrWWxiYy9XY3ZncngxM2hreEE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW03_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=VVhwa1dhelpCK0tlMFZrZ3FrTXNEOVZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRFhWTmQ5L0p0L3dVK0JBVGw1UmRqMEE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW03_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=UFlocWJTNWxFVjJzSHdVWlkwRW41dFZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVREdwUzF0VEpmdnlpRnF6L1pyOUtaYkE"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mqlj3ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MQLJ3CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mqlj3ch/a",
+   "title": "Beats Studio Buds + 真无线降噪耳机 — 象牙白",
+   "brand": "Beats",
+   "model": "MQLJ3CH/A",
+   "category": "earphones",
+   "priceCents": 134900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQLJ3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=amg2NTBITW4zQ0grVTJCTnpFK2pKb3ExblZJSGFXSFVPMUE2c2RxMy8rSUpKL05MbWJpcWlKWjUwaGsyQTRCcEkzOVhHRTNBdVBSU0ZCcEF2a1dRZkE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQLJ3_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=UERCaVhPUjdzVDNGcWd5L1RBN2VuTlZhbkJla2d5Z2JVMy9NUHpmYTJ5WlJ4SU8zU0N4aHpDN0xQRGRieGNPMzJSQ1JVRzUydTNKYWRPd09CaGV6cFE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQLJ3_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=dGFhZzVwWWVlaUwwcFZ1ZjRCcUcrOVZhbkJla2d5Z2JVMy9NUHpmYTJ5WlJ4SU8zU0N4aHpDN0xQRGRieGNPM05zbXRqUHlMTjhWUFFxa0d4cmFUeHc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQLJ3_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=RytYSkZmQ0pxckQ0ZTJiQUpKdHU3OVZhbkJla2d5Z2JVMy9NUHpmYTJ5WlJ4SU8zU0N4aHpDN0xQRGRieGNPM3pKVnZRQnhOM2tEZDhaNld4UGlhK0E"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mymg2pa-a",
+   "source": "Apple 官网",
+   "sourceSku": "MYMG2PA/A",
+   "url": "https://www.apple.com.cn/shop/product/mymg2pa/a",
+   "title": "Beats Flex – 适合全天佩戴的无线入耳式耳机 – 冷焰蓝",
+   "brand": "Beats",
+   "model": "MYMG2PA/A",
+   "category": "earphones",
+   "priceCents": 59900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MYMG2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=NGVpdmh2R3pwU2JmTXkwOThwckErNHExblZJSGFXSFVPMUE2c2RxMy8rTDFtYWRtZkN6U05Cb0EzTW1pdkIyanN5eXZYZERRNkpIRGtVMDZZYTF2bUE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MYMG2_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=VWJaN1VwTWJMeGtPenczK01YL2MrdFZhbkJla2d5Z2JVMy9NUHpmYTJ5YS9vbDFsREk4dDZWY0I5V1dLblZKSlNjR2FseGwwblphb0dCMzhMeUZrUVE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MYMG2_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=OFEvbmZXMFFhcjFJb3ZlVVdEWWNNZFZhbkJla2d5Z2JVMy9NUHpmYTJ5YS9vbDFsREk4dDZWY0I5V1dLblZKSjQ4bWtReGxRQUJsc1A3ZC9WSTJXVkE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MYMG2_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=VnZRSVBGSTJYSURBR1dqMWptNHlXZFZhbkJla2d5Z2JVMy9NUHpmYTJ5YS9vbDFsREk4dDZWY0I5V1dLblZKSmdEL1h2NmgxdG9SQWZpWVg1WE52YlE"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mwty3fe-a",
+   "source": "Apple 官网",
+   "sourceSku": "MWTY3FE/A",
+   "url": "https://www.apple.com.cn/shop/product/mwty3fe/a",
+   "title": "EarPods (闪电接头)",
+   "brand": "Apple",
+   "model": "MWTY3FE/A",
+   "category": "earphones",
+   "priceCents": 14900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MMTN2?wid=890&hei=890&fmt=jpeg&qlt=95&.v=VXJacC9QaDhEelNvUG1qcFAwM0xXNHExblZJSGFXSFVPMUE2c2RxMy8rTHVNak4rcS9UYkx2ZU9SRkRBZ3RZZThCMTdQOG5IKzFCSGY4NkE5ZzFRUWc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MMTN2_AV1?wid=890&hei=890&fmt=jpeg&qlt=95&.v=WGNzUExIeStDNHZReVpIRFdwdGVuOVZhbkJla2d5Z2JVMy9NUHpmYTJ5WmY4K1NycGF0cFVhVnVrSmR4aUFKS1l2eWpqaEhpSzd3UWZ2d2tDMTNrdnc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MMTN2_AV2?wid=890&hei=890&fmt=jpeg&qlt=95&.v=Z0w4NnZINzV6YzNKUTJFVS81MjRzdFZhbkJla2d5Z2JVMy9NUHpmYTJ5WmY4K1NycGF0cFVhVnVrSmR4aUFKS1VWWEpuY1M3T0VoUW80eVF1U2V5UlE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MMTN2_AV3?wid=890&hei=890&fmt=jpeg&qlt=95&.v=TnMzV3c0bkRiZWZ2VldLMHg2VkZSOVZhbkJla2d5Z2JVMy9NUHpmYTJ5WmY4K1NycGF0cFVhVnVrSmR4aUFKSzZTeFlwWC9HS2tHQTZvRytxR2NBMXc"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mxk53ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MXK53CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mxk53ch/a",
+   "title": "妙控鼠标 (USB-C) - 白色多点触控表面",
+   "brand": "Apple",
+   "model": "MXK53CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 54900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK53?wid=890&hei=890&fmt=jpeg&qlt=90&.v=ZEl0L1RBWDFxdlRkZDBKUUlMQkVyWXExblZJSGFXSFVPMUE2c2RxMy8rTGhtOWE0YThxS1czK3JNYk5zY1dEQ21EZzNTUEF2RlJVTW05L3NQakl1L2c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK53_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=SUdJeHAxRnhhWDZITGlieHYrWUhmdFZhbkJla2d5Z2JVMy9NUHpmYTJ5YmFGdlZQSnlMS1RoWnpwU1RVVlFLWUxTNkFGOEdpeE00RmJFQ3hDaHI3L0E",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK53_AV2_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=c2RMWjhGRlVpNXBkWjBEZ3JWV0hiSW1iTTIzdHhNSjVhMnZKTVI1QWxldHNXcXhBR29GWXZ0aE53c3VpK1p1eHg0akw0dFRrK2hmVkhPWVpidDR4TW9rc3R2d0NVV1dZSnllUXBBZi92WUU",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK53_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=cjBXRmo1RFptWXIyMTJnQkYyaHNnTlZhbkJla2d5Z2JVMy9NUHpmYTJ5YmFGdlZQSnlMS1RoWnpwU1RVVlFLWXFab3d1Qys3NHlEOVZoY0x5QkNucEE"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mxk73ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MXK73CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mxk73ch/a",
+   "title": "带有触控 ID 和数字小键盘的妙控键盘 (USB-C，适用于配备 Apple 芯片的 Mac 机型) - 中文 (拼音) - 白色按键",
+   "brand": "Apple",
+   "model": "MXK73CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 124900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK73CH?wid=890&hei=890&fmt=jpeg&qlt=90&.v=cCtlWDhVcmEvem5tSlZBOU5aMDd1VlhxaUMzRlo5aXdFdHpaYUhWcDUzdml3aWh6dythYVFkQzRrNHNQcUNsVmsySlZYUkloSFErclhaMzQwRHdqTEE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK73CH_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=KzBGV0hiRnRWWis1N1FlSkk3OCs2OWMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUS9WbEI5NUxCRGZHNnpXeWtFUnBza1E",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK73CH_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=YXpCMldMNFZtcE9SM1ZvZDc3WjVOOWMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUUVmeGVNOGdlWXJuckMvTXozOWRNWmc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK73CH_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=MTh4Vll3cjdLM2pzdmlybWt0MTNiOWMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUXlhSys2QUtiWlBhTkp6eUJPam1kUkE"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mxcj3ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MXCJ3CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mxcj3ch/a",
+   "title": "带有数字小键盘的妙控键盘 - 中文 (拼音)",
+   "brand": "Apple",
+   "model": "MXCJ3CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 89900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQ052CH?wid=890&hei=890&fmt=jpeg&qlt=95&.v=anFiaE9ydlhjWlNEMURLT3R0VHlWbFhxaUMzRlo5aXdFdHpaYUhWcDUzdXlFRFFnNVhOcDlDWWRFL0Q4ZFhHUVgwT1duUnpkWTZnNWFCTFN5aGhsT2c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQ052CH_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=SU94WEhiaW13U0pLcEtkUjBWQmFQdGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUWZrYjg0MlRPL2xlbndkUnJNSjNoZ2c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQ052CH_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=VDQzTEZzSXpPdW9UejhQa3BEL3pzdGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUTM1bjY2NmpkbjdncGw0TGFCWnNPdHc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQ052CH_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=dFVLY21sVnR2R2xHZWVjWEppTGM4dGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUTcyVEFaemMxUEhPOFFwdnZVbHY3eHc"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-hslw2ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "HSLW2CH/A",
+   "url": "https://www.apple.com.cn/shop/product/hslw2ch/a",
+   "title": "Logitech MX Master 4 鼠标",
+   "brand": "Logitech",
+   "model": "HSLW2CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 99800,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSLW2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=blcwRGdrY0lFNkt0bFNhVDZhaDljb3ExblZJSGFXSFVPMUE2c2RxMy8rS29aUUFBeFdiajUza3Vja1p3M1B2V3pWL2hhVTRWMnRTaWIyOXdKdGYrdFE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSLW2_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=QlBjZnNBOFRYYXhQRml4ZFpCL3ZqTlZhbkJla2d5Z2JVMy9NUHpmYTJ5WlNkMC9jbHk5L2thR1VwQTh2WXUxZEEvN2ZXZUEzMGxKcXBPUk45a0FHR3c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSLW2_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=dWJNckNFMVlZTHM4dFJxcW8rM2JpZFZhbkJla2d5Z2JVMy9NUHpmYTJ5WlNkMC9jbHk5L2thR1VwQTh2WXUxZEl0QkJMU0VkaTRqRGQxWGxKTzZFblE"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-hslx2ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "HSLX2CH/A",
+   "url": "https://www.apple.com.cn/shop/product/hslx2ch/a",
+   "title": "Logitech MX Keys Mini 无线键盘 - 中文 (拼音)",
+   "brand": "Logitech",
+   "model": "HSLX2CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 109800,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSLX2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=WklKME5PbmpEZnEzeGNsdVZMZTZkNHExblZJSGFXSFVPMUE2c2RxMy8rS29aUUFBeFdiajUza3Vja1p3M1B2V2RyNmxHMmZ1MnlwcDNDcWlzQ09ic2c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSLX2_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=SEZ2dk1IOElQZDBKRTc1Zjgxam8ydFZhbkJla2d5Z2JVMy9NUHpmYTJ5WlNkMC9jbHk5L2thR1VwQTh2WXUxZHpYSFRXT3F2NmFqRGMvZ2k1MnhOMWc"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mwr03ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MWR03CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mwr03ch/a",
+   "title": "妙控键盘 - 适用于 11 英寸 iPad Pro (M5) - 中文 (拼音) - 白色",
+   "brand": "Apple",
+   "model": "MWR03CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 239900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR03CH?wid=890&hei=890&fmt=jpeg&qlt=90&.v=am1UM2lmeFdzbUNDTzlTR3VwSEt3bFhxaUMzRlo5aXdFdHpaYUhWcDUzdjV6ckVnM09GL2pmSTFHZ2NJZ3poT1E3RkhSQnNmeWxOWGxqNDZvNWVwRlE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR03CH_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=VUoydE1wTTYwMS9LN1MyRjI0YkF1OWMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUUxkUE15VjNCUUplVStJbjZQbjhrWGc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR03CH_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=TFRxUnhPL1Q1QWdZcmI2SVQxOE1PZGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUTAvRzV1RUxhRmVIYUlEQmx1RDNNbnc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR03CH_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=WkFkampxOFVsenZNaUdFM1V1OVRZOWMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUXNTTDNDVzBYMU4xQWl4Z2QvSzhKYXc"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mwr53ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MWR53CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mwr53ch/a",
+   "title": "妙控键盘 - 适用于 13 英寸 iPad Pro (M5) - 中文 (拼音) - 黑色",
+   "brand": "Apple",
+   "model": "MWR53CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 279900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR53CH?wid=890&hei=890&fmt=jpeg&qlt=90&.v=d0NER1I0WGZWaGkxVVIvWjc0U1hObFhxaUMzRlo5aXdFdHpaYUhWcDUzdjV6ckVnM09GL2pmSTFHZ2NJZ3poT0ZrZVcrZm5naWFGSTVJR0lLNC9TVVE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR53CH_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=VGZPRzRwY0FuTUZiUUQzWFhNa2c4dGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUXo2cUtNQXgxWTBwQUk4ZUpOV0FXWVE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR53CH_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=c2dleTNYNmtYaHA3NHUxdDlzYWE5OWMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUUR2Qk1ldUZHK2o3dGlwdmF0MXRnU2c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR53CH_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=Vy9XYUI0UjRMRmkxNkx1TDJEZWM4TmMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUVQxcW83TEJrRzFNb25HaitWbXg3a0E"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mdfv4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MDFV4CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mdfv4ch/a",
+   "title": "妙控键盘 – 适用于 11 英寸 iPad Air (M4) – 中文 (拼音) – 白色",
+   "brand": "Apple",
+   "model": "MDFV4CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 219900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDFV4CH?wid=890&hei=890&fmt=jpeg&qlt=90&.v=WXRySFN2SzhvTU5HbjRwWTFXNGFmRlhxaUMzRlo5aXdFdHpaYUhWcDUzdmFCSXBESDFIZXdLZzVxZkcxeHh3MXpITFVXcFVZSTROVHRjM3o5QzV4VFE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDFV4CH_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=a25JS0h0TFF0b3F0OVBSdmJ5UG1mOWMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUWpiWUdSdUZTYjZLb1o2UjdYRzlMZWc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDFV4CH_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=SEd2cHVnRGxsVDc0c0FjajA3OHJodGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUXF1K1VaOFBlcmFSOXNFcGJkR0NyYVE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDFV4CH_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=TGdpQmVsTmlKZWNJeXhiREZmeUhBZGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUUgxL1JKb0diNytvOGJWQ3BuRjBtY0E"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mgyy4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MGYY4CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mgyy4ch/a",
+   "title": "妙控键盘 – 适用于 13 英寸 iPad Air (M4) – 中文 (拼音) – 黑色",
+   "brand": "Apple",
+   "model": "MGYY4CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 239900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGYY4CH?wid=890&hei=890&fmt=jpeg&qlt=90&.v=dmNMSXVOaWovZUJ3cHQ2SUNNbjEzMVhxaUMzRlo5aXdFdHpaYUhWcDUzdjV6ckVnM09GL2pmSTFHZ2NJZ3poT1VSTER6RytqYzJ6aTZQZ0VRU2htUkE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGYY4CH_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=Mm16RDEybzZJNzZMZENoYUNMTEFtdGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUUdDaXR4TjNLTnpCMkVJZzZmWjZMblE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGYY4CH_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=Tk43ZUwvNklCTFdmcit1cTVMd2piZGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUXVVd25xQnkvVkNxZmdkaFM1Um90RUE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGYY4CH_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=VmlDQ3o3VEgyZTEwOGtNYlNzQ1FTZGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUU5mRlA5UXdqL0QvamhiUlVidk10ZGc"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-hryy2ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "HRYY2CH/A",
+   "url": "https://www.apple.com.cn/shop/product/hryy2ch/a",
+   "title": "Logitech Keys-To-Go 2 键盘 (适用于 iPad)",
+   "brand": "Logitech",
+   "model": "HRYY2CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 69800,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRYY2_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=ak8xaEcxMmhjUk1mcVdKVjJTbUZvajB4dzUxNnFGVFhpQXJhOFBFbUxHY3pIV3RHbE5qdS8zMStVUzZUdGp5bDJTbU1pRVBSSHhLbTVWdWRnQ2IzZkE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRYY2_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=VktrSWU3Y3JJNlc1Vk9KdDRYV2RIOVZhbkJla2d5Z2JVMy9NUHpmYTJ5YmFGdlZQSnlMS1RoWnpwU1RVVlFLWTFIcWtudUhXVFBJcFRyMURjU3ZucHc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRYY2_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=NUtHQk1VWUdsRHdNM3Fxck5PSXEwdFZhbkJla2d5Z2JVMy9NUHpmYTJ5WXk1VXUzQzBNamRxOFhueFJ3ck9OSU5qOFdPTVZldDNETEZZakZ0eFFjWkE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRYY2_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=ellMTkNLUjlodncyWkt0ZHEzWVlhZFZhbkJla2d5Z2JVMy9NUHpmYTJ5WXk1VXUzQzBNamRxOFhueFJ3ck9OSXJCaGFncjViTHNsNFBGa2lRT0VLYWc"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mxcl3ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MXCL3CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mxcl3ch/a",
+   "title": "妙控键盘 (USB–C) - 中文 (拼音)",
+   "brand": "Apple",
+   "model": "MXCL3CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 72900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXCL3CH?wid=890&hei=890&fmt=jpeg&qlt=90&.v=S3pBbzVRaDBWMzJqbDRvTlYwcG13RlhxaUMzRlo5aXdFdHpaYUhWcDUzdlFTRk96RCtNanIzMVV6ZlpYUDlXeFFjOVQ3Q1kxUERjY0tML2Jxamh3Q1E",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXCL3CH_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=eG1ESm5PTUk1OVhZZUIvMUM4S0ZxZGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUVpUMVpzSGNlblU3dDNGOUl0RW1TUFE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXCL3CH_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=NkJXSjkxZ0Z6Uk9lMzdRamMycXhkZGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUS8rNmw4Sk9LUU53UlFCelJKeTA2U1E",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXCL3CH_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=TUxHNkxTdTZBbVB4enhIb3p6Sjg4TmMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUTdROXBJOUREQjNWYVdwUEl2UjlGMkE"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mxk83ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MXK83CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mxk83ch/a",
+   "title": "带有触控 ID 和数字小键盘的妙控键盘 (USB-C，适用于配备 Apple 芯片的 Mac 机型) - 中文 (拼音) - 黑色按键",
+   "brand": "Apple",
+   "model": "MXK83CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 139900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK83CH?wid=890&hei=890&fmt=jpeg&qlt=90&.v=YXVVczZMREtiZFR1UUQ2cjNZc2M2MVhxaUMzRlo5aXdFdHpaYUhWcDUzdHg0WTZyL1A5WmNtZnQ5cndCcGIwd2NtaVhveWxyWFZOZ0JCamhHY1FFZlE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK83CH_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=YXZqMmtUMmRaUHhXWm5aQ1Njc1l0dGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUTJMYUdWVU5UVVBkay9LdFdwa2w4ZVE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK83CH_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=SFhVMEpsQzNKWHB1TmdQbXNZbGdMOWMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUVcvdW9vdkJmNlN1NXJmNC9IeUFvK3c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK83CH_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=Z0lSTTc4LzV2YTFCN0ZuM0MyaEJuOWMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUUIvRjI1cWNCYzJGbG5haHBITXAzdlE"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mxck3ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MXCK3CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mxck3ch/a",
+   "title": "带有触控 ID 的妙控键盘 (USB–C，适用于配备 Apple 芯片的 Mac 机型) - 中文 (拼音)",
+   "brand": "Apple",
+   "model": "MXCK3CH/A",
+   "category": "keyboard-mouse",
+   "priceCents": 104900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXCK3CH?wid=890&hei=890&fmt=jpeg&qlt=90&.v=MDAvaGpmOHJqZXhHeE1OK0xoNXhnMVhxaUMzRlo5aXdFdHpaYUhWcDUzc25XeVR6enhudHVjaVRlQmx1dzZmZGNJUVJmN2doZGgzY3hKU0tOQUd1MlE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXCK3CH_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=cStveEJiTkx0SU5QSW1UMmtXZzRjTmMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUXVpbERwMGx4ckJRRGh6bzlXQytrZXc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXCK3CH_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=eEFiK3Bxd015QldCQ0huQjl4MzZ1dGMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUUVodHBRZWVPM0F2b2tBMldJaHNXTGc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXCK3CH_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=cVNDR1FrSE1CR1kwYmQ1aWdOQ3Z4TmMyUG1jbTIrb3hOYXVkWDJXdjhpNEYwVmtIbGRkS25RMVpBRlo0bk5DUWVra09yMzhFOHhYM2tGM3dTRDRoUmc"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mwqx3ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MWQX3CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mwqx3ch/a",
+   "title": "MagSafe 充电器",
+   "brand": "Apple",
+   "model": "MWQX3CH/A",
+   "category": "charging",
+   "priceCents": 32900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MHXH3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=b2VKVTJiOFp5MzQ3UnRNbHB1YlFBWXExblZJSGFXSFVPMUE2c2RxMy8rTElmTC9pdE1WUUNEYTY3SEFZcG5yaXB0LzE5UnU4TnQ1RndFZDlGVVk0OEE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MHXH3_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=UDJ2R3ZVT3ZBYzZ2U1RXZVlxTVVROVZhbkJla2d5Z2JVMy9NUHpmYTJ5WXBUMFFYc2ZPKzB3Z2JEUmo0M3JVVnRqN1czb1YwditJbmpaTG5lMTBoRnc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MHXH3_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=TUhvWEE3dTZsS29URmNDS0hCOXg5OVZhbkJla2d5Z2JVMy9NUHpmYTJ5YTNDSDkzWVI2bmF6WjhNQ1NScllOcXc3V2FRaXlMVG0vaHp5YkFtK3hRV2c",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MHXH3_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=WHVTbjdwT1hXUFV1T2dqTncvTEIwZFZhbkJla2d5Z2JVMy9NUHpmYTJ5YTNDSDkzWVI2bmF6WjhNQ1NScllOcVVkQ0htKzFPRlR5bm02WFJWb1RhT1E"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mgkp4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MGKP4CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mgkp4ch/a",
+   "title": "40W 动态电源适配器 (最高 60W)",
+   "brand": "Apple",
+   "model": "MGKP4CH/A",
+   "category": "charging",
+   "priceCents": 29900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGKP4?wid=890&hei=890&fmt=jpeg&qlt=90&.v=SkI4Z1p0TFVDc1prcXlPcW0xdHNyWXExblZJSGFXSFVPMUE2c2RxMy8rTG84NEt4eXFmN3BBU0tqQ250T1B1bzJZRC93VXlVcE9BOStMUXRSWldnVnc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGKP4_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=T0JML1hrN2dWbjlQbmpVV0JhejUwZFZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRGtWWlUwbmlSNkJyYUIxRjZlOFo2ZGc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGKP4_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=WTU3RkFJSk1PYWx6Z0xMbTVZOHRmTlZhbkJla2d5Z2JVMy9NUHpmYTJ5WkVLMFFjeUVKdElwOC8vU0pEVnZVRGk3UER3Q2VxZVdFYUZ3QVBKN3A0Z3c"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mw4d3ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MW4D3CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mw4d3ch/a",
+   "title": "35W 双 USB-C 端口小型电源适配器",
+   "brand": "Apple",
+   "model": "MW4D3CH/A",
+   "category": "charging",
+   "priceCents": 44900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MNWN3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=R0tVYXBsV2JqbjNpd0lhVFVSTytsWXExblZJSGFXSFVPMUE2c2RxMy8rTFptRUVGU1JucGJick45T0xaT3l5aXN5UnpIS2IyekpJNUxXOCtLR29RTmc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MNWN3_AV1?wid=890&hei=890&fmt=jpeg&qlt=90&.v=S2g4aGJBSTc4TTY1a2ZLSU1samZ4OVZhbkJla2d5Z2JVMy9NUHpmYTJ5WVVXZnR2ZzFoL245SGJLaWhmYkpXenhQbE4wRS8yTnpCdGxVRGd2WDcrdVE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MNWN3_AV2?wid=890&hei=890&fmt=jpeg&qlt=90&.v=MG94MiszMWUwVVJWUGNsdVlMYkpjZFZhbkJla2d5Z2JVMy9NUHpmYTJ5WVVXZnR2ZzFoL245SGJLaWhmYkpXejlwcHU4QUNZdjJLYmY4SGs1bnBIVXc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MNWN3_AV3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=aHRGbFA3bHBybW5iVlVRb2lHYUg3OVZhbkJla2d5Z2JVMy9NUHpmYTJ5WVVXZnR2ZzFoL245SGJLaWhmYkpXekdSci9jYkt3MzBGZUhlbUxvcEM4WkE"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mkfp4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MKFP4CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mkfp4ch/a",
+   "title": "70W 电源适配器",
+   "brand": "Apple",
+   "model": "MKFP4CH/A",
+   "category": "charging",
+   "priceCents": 44900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKFP4_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=VHVBRkVWTHNDNWpzRWRmMmRtYVJmRDB4dzUxNnFGVFhpQXJhOFBFbUxHY3pIV3RHbE5qdS8zMStVUzZUdGp5bDB4VDlPRjZ3UllTbXMwM3dFWFU1akE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKFP4_AV1_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=MUcxTkZyYjA5WkFqZm1VSlIrcWpBWW1iTTIzdHhNSjVhMnZKTVI1QWxldHNXcXhBR29GWXZ0aE53c3VpK1p1eEtCR3RFQW9xVU9IdVZTNVNuUnNJSExtM3o5YWxwSmVFclU0OFZ5T2NZS0U"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mw2l3ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MW2L3CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mw2l3ch/a",
+   "title": "96W 电源适配器",
+   "brand": "Apple",
+   "model": "MW2L3CH/A",
+   "category": "charging",
+   "priceCents": 58400,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MW2L3_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=MklTMUpqSVgxelRKbFB3U25STmtwejB4dzUxNnFGVFhpQXJhOFBFbUxHY3pIV3RHbE5qdS8zMStVUzZUdGp5bEJEVEFMWmJNSytVd2FnMDJFenJ0TVE",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MW2L3_AV1_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=MkpwazdvaWpvWjNvV0RRSndxMTAwNG1iTTIzdHhNSjVhMnZKTVI1QWxldHNXcXhBR29GWXZ0aE53c3VpK1p1eGhtb3ZoWDZHUm4wYjBnWTIyOURFa2JtM3o5YWxwSmVFclU0OFZ5T2NZS0U",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MW2L3_AV2_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=bEt4MUFWL296a2tRVnJVMEpQUVMrSW1iTTIzdHhNSjVhMnZKTVI1QWxldHNXcXhBR29GWXZ0aE53c3VpK1p1eC9Da3ptQjQ3Ti9hTG9SZ2RHeEFiNElrc3R2d0NVV1dZSnllUXBBZi92WUU"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mkfq4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MKFQ4CH/A",
+   "url": "https://www.apple.com.cn/shop/product/mkfq4ch/a",
+   "title": "140W 电源适配器",
+   "brand": "Apple",
+   "model": "MKFQ4CH/A",
+   "category": "charging",
+   "priceCents": 72900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKFQ4_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=VWp1K0llV1lKLzBQdHQ2OVFyNFcrVDB4dzUxNnFGVFhpQXJhOFBFbUxHY3pIV3RHbE5qdS8zMStVUzZUdGp5bGlqY3NRU3BpVDFrek5OVVFYUzMzTmc",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKFQ4_AV1_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=Wis1UkhKTUZyMTVjZ3dsaUR2Y3A4SW1iTTIzdHhNSjVhMnZKTVI1QWxldHNXcXhBR29GWXZ0aE53c3VpK1p1eFlNM0NWVXpPb3ozSTNoU0gwbGFSZkVCS2MyaHpLNVBZR1Yzc0haaDRhNlk"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-hs4q2ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "HS4Q2CH/A",
+   "url": "https://www.apple.com.cn/shop/product/hs4q2ch/a",
+   "title": "Nimble Wally Stretch 65W 壁式充电器 - 白色",
+   "brand": "Apple",
+   "model": "HS4Q2CH/A",
+   "category": "charging",
+   "priceCents": 54800,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS4Q2_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=c2ZnNkpaUzg0bktqZ0JRdkFLT2o5ejB4dzUxNnFGVFhpQXJhOFBFbUxHY3pIV3RHbE5qdS8zMStVUzZUdGp5bEVyUFRsSTExVzBGblI0cVZMdUYyb0E",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS4Q2_AV1_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=cDFkbWdJV3FHdkRwWGxuRFRoN0pxWW1iTTIzdHhNSjVhMnZKTVI1QWxldHNXcXhBR29GWXZ0aE53c3VpK1p1eFMzbDlQWDhmZmVsb0RiUkp4WEZzZVlrc3R2d0NVV1dZSnllUXBBZi92WUU",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS4Q2_AV2_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=TDh6b0d1NzRZWW5QVDJqNTc2NmdRNG1iTTIzdHhNSjVhMnZKTVI1QWxldHNXcXhBR29GWXZ0aE53c3VpK1p1eDNMOUdCZnVRUU1QVW12NitPQmNXSXJtM3o5YWxwSmVFclU0OFZ5T2NZS0U",
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS4Q2_AV3_GEO_CN?wid=890&hei=890&fmt=jpeg&qlt=90&.v=Y09wSVBiQkZkNGI5UDgvdFFkc2xDSW1iTTIzdHhNSjVhMnZKTVI1QWxldHNXcXhBR29GWXZ0aE53c3VpK1p1eG9lQ0krS1NnRFhoZGVkc1JQRjgyWlhaQzM2eERGTkhTcHRqdmRKQm1ram8"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-md4a4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MD4A4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad",
+   "title": "iPad Wi-Fi 128GB - Blue",
+   "brand": "Apple",
+   "model": "MD4A4CH/A",
+   "category": "tablet",
+   "priceCents": 379900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-model-unselect-gallery-1-202503?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1739318772336"
+   ],
+   "specs": {
+    "存储容量": "128GB",
+    "网络": "Wi-Fi"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-md4h4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MD4H4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad",
+   "title": "iPad Wi-Fi 256GB - Blue",
+   "brand": "Apple",
+   "model": "MD4H4CH/A",
+   "category": "tablet",
+   "priceCents": 429900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-model-unselect-gallery-1-202503?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1739318772336"
+   ],
+   "specs": {
+    "存储容量": "256GB",
+    "网络": "Wi-Fi"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-md7w4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MD7W4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad",
+   "title": "11-inch iPad  Wi‑Fi + Cellular 128GB - Yellow",
+   "brand": "Apple",
+   "model": "MD7W4CH/A",
+   "category": "tablet",
+   "priceCents": 509900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-model-unselect-gallery-1-202503?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1739318772336"
+   ],
+   "specs": {
+    "存储容量": "128GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mj6f4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MJ6F4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-mini",
+   "title": "iPad mini Wi‑Fi 128GB with standard glass - Midnight",
+   "brand": "Apple",
+   "model": "MJ6F4CH/A",
+   "category": "tablet",
+   "priceCents": 549900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-finish-unselect-gallery-1-202610?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1791933043916"
+   ],
+   "specs": {
+    "存储容量": "128GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mj6q4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MJ6Q4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-mini",
+   "title": "iPad mini Wi‑Fi 256GB with standard glass - Midnight",
+   "brand": "Apple",
+   "model": "MJ6Q4CH/A",
+   "category": "tablet",
+   "priceCents": 629900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-finish-unselect-gallery-1-202610?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1791933043916"
+   ],
+   "specs": {
+    "存储容量": "256GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mj704ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MJ704CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-mini",
+   "title": "iPad mini Wi‑Fi + Cellular 128GB with standard glass - Midnight",
+   "brand": "Apple",
+   "model": "MJ704CH/A",
+   "category": "tablet",
+   "priceCents": 679900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-finish-unselect-gallery-1-202610?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1791933043916"
+   ],
+   "specs": {
+    "存储容量": "128GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mh304ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MH304CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-air",
+   "title": "11-inch iPad Air Wi‑Fi 128GB - Space Gray",
+   "brand": "Apple",
+   "model": "MH304CH/A",
+   "category": "tablet",
+   "priceCents": 599900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-model-unselect-gallery-1-202405?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1739381939396"
+   ],
+   "specs": {
+    "存储容量": "128GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mh354ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MH354CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-air",
+   "title": "11-inch iPad Air Wi‑Fi 256GB - Space Gray",
+   "brand": "Apple",
+   "model": "MH354CH/A",
+   "category": "tablet",
+   "priceCents": 649900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-model-unselect-gallery-1-202405?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1739381939396"
+   ],
+   "specs": {
+    "存储容量": "256GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mh8c4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MH8C4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-air",
+   "title": "11-inch iPad Air Wi‑Fi + Cellular 128GB - Blue",
+   "brand": "Apple",
+   "model": "MH8C4CH/A",
+   "category": "tablet",
+   "priceCents": 729900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-model-unselect-gallery-1-202405?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1739381939396"
+   ],
+   "specs": {
+    "存储容量": "128GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mdwk4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MDWK4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-pro",
+   "title": "11-inch iPad Pro Wi‑Fi 256GB with standard glass - Space Black",
+   "brand": "Apple",
+   "model": "MDWK4CH/A",
+   "category": "tablet",
+   "priceCents": 1079900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-model-select-gallery-1-202405?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1713495958512"
+   ],
+   "specs": {
+    "存储容量": "256GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mdwm4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MDWM4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-pro",
+   "title": "11-inch iPad Pro Wi‑Fi 512GB with standard glass - Space Black",
+   "brand": "Apple",
+   "model": "MDWM4CH/A",
+   "category": "tablet",
+   "priceCents": 1249900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-model-select-gallery-1-202405?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1713495958512"
+   ],
+   "specs": {
+    "存储容量": "512GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mdyk4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MDYK4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-pro",
+   "title": "13-inch iPad Pro Wi‑Fi 256GB with standard glass - Silver",
+   "brand": "Apple",
+   "model": "MDYK4CH/A",
+   "category": "tablet",
+   "priceCents": 1329900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-model-select-gallery-1-202405?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1713495958512"
+   ],
+   "specs": {
+    "存储容量": "256GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mhu64ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MHU64CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17e",
+   "title": "iPhone 17e 256GB Soft Pink",
+   "brand": "Apple",
+   "model": "MHU64CH/A",
+   "category": "phone",
+   "priceCents": 529900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-finish-unselect-gallery-1-202603?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1770766618922"
+   ],
+   "specs": {
+    "存储容量": "256GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mhu74ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MHU74CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17e",
+   "title": "iPhone 17e 512GB Black",
+   "brand": "Apple",
+   "model": "MHU74CH/A",
+   "category": "phone",
+   "priceCents": 729900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-finish-unselect-gallery-1-202603?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1770766618922"
+   ],
+   "specs": {
+    "存储容量": "512GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mg714ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MG714CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
+   "title": "iPhone 17 256GB Sage",
+   "brand": "Apple",
+   "model": "MG714CH/A",
+   "category": "phone",
+   "priceCents": 679900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-unselect-gallery-1-202509?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1758739980534"
+   ],
+   "specs": {
+    "存储容量": "256GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mg724ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MG724CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
+   "title": "iPhone 17 512GB Black",
+   "brand": "Apple",
+   "model": "MG724CH/A",
+   "category": "phone",
+   "priceCents": 879900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-unselect-gallery-1-202509?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1758739980534"
+   ],
+   "specs": {
+    "存储容量": "512GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mg364ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MG364CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air",
+   "title": "iPhone Air 256GB Sky Blue",
+   "brand": "Apple",
+   "model": "MG364CH/A",
+   "category": "phone",
+   "priceCents": 879900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-unselect-gallery-1-202509?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1757665392198"
+   ],
+   "specs": {
+    "存储容量": "256GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mg374ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MG374CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air",
+   "title": "iPhone Air 512GB Space Black",
+   "brand": "Apple",
+   "model": "MG374CH/A",
+   "category": "phone",
+   "priceCents": 1079900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-unselect-gallery-1-202509?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1757665392198"
+   ],
+   "specs": {
+    "存储容量": "512GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mg3f4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MG3F4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air",
+   "title": "iPhone Air 1TB Light Gold",
+   "brand": "Apple",
+   "model": "MG3F4CH/A",
+   "category": "phone",
+   "priceCents": 1429900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-unselect-gallery-1-202509?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1757665392198"
+   ],
+   "specs": {
+    "存储容量": "1TB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mjta4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MJTA4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+   "title": "iPhone 18 Pro 256GB Glacier",
+   "brand": "Apple",
+   "model": "MJTA4CH/A",
+   "category": "phone",
+   "priceCents": 999900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-model-unselect-gallery-1-202609?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1786041739689"
+   ],
+   "specs": {
+    "存储容量": "256GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mjy94ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MJY94CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+   "title": "iPhone 18 Pro Max 256GB Glacier",
+   "brand": "Apple",
+   "model": "MJY94CH/A",
+   "category": "phone",
+   "priceCents": 1099900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-model-unselect-gallery-1-202609?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1786041739689"
+   ],
+   "specs": {
+    "存储容量": "256GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-mjtc4ch-a",
+   "source": "Apple 官网",
+   "sourceSku": "MJTC4CH/A",
+   "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+   "title": "iPhone 18 Pro 512GB Black",
+   "brand": "Apple",
+   "model": "MJTC4CH/A",
+   "category": "phone",
+   "priceCents": 1199900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-model-unselect-gallery-1-202609?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1786041739689"
+   ],
+   "specs": {
+    "存储容量": "512GB"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-watch_cases-aluminum-40mm-gps",
+   "source": "Apple 官网",
+   "sourceSku": "watch_cases-aluminum-40mm-gps",
+   "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch-se",
+   "title": "Apple Watch SE 铝金属 40mm GPS",
+   "brand": "Apple",
+   "model": "watch_cases-aluminum-40mm-gps",
+   "category": "smartwatch",
+   "priceCents": 199900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-1-202609_GEO_CN?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1787709252587"
+   ],
+   "specs": {
+    "表壳尺寸": "40mm",
+    "价格说明": "官网标价为该表壳配置起售价（“起”）"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-watch_cases-aluminum-44mm-gps",
+   "source": "Apple 官网",
+   "sourceSku": "watch_cases-aluminum-44mm-gps",
+   "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch-se",
+   "title": "Apple Watch SE 铝金属 44mm GPS",
+   "brand": "Apple",
+   "model": "watch_cases-aluminum-44mm-gps",
+   "category": "smartwatch",
+   "priceCents": 219900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-1-202609_GEO_CN?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1787709252587"
+   ],
+   "specs": {
+    "表壳尺寸": "44mm",
+    "价格说明": "官网标价为该表壳配置起售价（“起”）"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-watch_cases-aluminum-40mm-gpscell",
+   "source": "Apple 官网",
+   "sourceSku": "watch_cases-aluminum-40mm-gpscell",
+   "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch-se",
+   "title": "Apple Watch SE 铝金属 40mm GPS+蜂窝网络",
+   "brand": "Apple",
+   "model": "watch_cases-aluminum-40mm-gpscell",
+   "category": "smartwatch",
+   "priceCents": 239900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-1-202609_GEO_CN?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1787709252587"
+   ],
+   "specs": {
+    "表壳尺寸": "40mm",
+    "价格说明": "官网标价为该表壳配置起售价（“起”）"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-watch_cases-aluminum-42mm-gps",
+   "source": "Apple 官网",
+   "sourceSku": "watch_cases-aluminum-42mm-gps",
+   "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch",
+   "title": "Apple Watch 铝金属 42mm GPS",
+   "brand": "Apple",
+   "model": "watch_cases-aluminum-42mm-gps",
+   "category": "smartwatch",
+   "priceCents": 299900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s12-case-unselect-gallery-1-202609_GEO_CN?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1787726537660"
+   ],
+   "specs": {
+    "表壳尺寸": "42mm",
+    "价格说明": "官网标价为该表壳配置起售价（“起”）"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-watch_cases-aluminum-46mm-gps",
+   "source": "Apple 官网",
+   "sourceSku": "watch_cases-aluminum-46mm-gps",
+   "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch",
+   "title": "Apple Watch 铝金属 46mm GPS",
+   "brand": "Apple",
+   "model": "watch_cases-aluminum-46mm-gps",
+   "category": "smartwatch",
+   "priceCents": 339900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s12-case-unselect-gallery-1-202609_GEO_CN?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1787726537660"
+   ],
+   "specs": {
+    "表壳尺寸": "46mm",
+    "价格说明": "官网标价为该表壳配置起售价（“起”）"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-watch_cases-aluminum-42mm-gpscell",
+   "source": "Apple 官网",
+   "sourceSku": "watch_cases-aluminum-42mm-gpscell",
+   "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch",
+   "title": "Apple Watch 铝金属 42mm GPS+蜂窝网络",
+   "brand": "Apple",
+   "model": "watch_cases-aluminum-42mm-gpscell",
+   "category": "smartwatch",
+   "priceCents": 379900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s12-case-unselect-gallery-1-202609_GEO_CN?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1787726537660"
+   ],
+   "specs": {
+    "表壳尺寸": "42mm",
+    "价格说明": "官网标价为该表壳配置起售价（“起”）"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "apple-watch_cases-49mm",
+   "source": "Apple 官网",
+   "sourceSku": "watch_cases-49mm",
+   "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch-ultra",
+   "title": "Apple Watch Ultra 49mm",
+   "brand": "Apple",
+   "model": "watch_cases-49mm",
+   "category": "smartwatch",
+   "priceCents": 649900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": "Apple 官网线上订单可享免费标准送货（帮助页「送货与取货」）",
+   "stock": null,
+   "images": [
+    "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ultra-case-unselect-gallery-1-202609_GEO_CN?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1787876543310"
+   ],
+   "specs": {
+    "表壳尺寸": "49mm",
+    "价格说明": "官网标价为该表壳配置起售价（“起”）"
+   },
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  }
+ ]
+}

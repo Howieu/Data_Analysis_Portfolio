@@ -1,0 +1,8 @@
+var
+data/raw
+screenshots
+review
+test
+bench
+scripts
+.env

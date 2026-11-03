@@ -1,0 +1,25 @@
+name: docker-compose
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  compose-up:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: 检查环境
+        run: ./scripts/start_all.sh --check
+      - name: 启动
+        run: ./scripts/start_all.sh --all
+      - name: 通过 nginx 访问
+        run: |
+          curl -fsS http://localhost/healthz
+          curl -fsS http://localhost/ | grep -q '<title>知选</title>'
+          curl -fsS -X POST http://localhost/api/chat -H 'Content-Type: application/json' -H 'Origin: http://localhost' -d '{"text":"吹风机，预算500"}' | grep -q '"status":"recommend"'
+      - name: 停止
+        if: always()
+        run: |
+          docker compose logs --tail=50 app frontend || true
+          ./scripts/start_all.sh --stop

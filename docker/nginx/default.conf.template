@@ -1,0 +1,45 @@
+# 浏览器只访问这一层；所有请求反代到知选应用容器。
+# 官方 nginx 镜像启动时会用环境变量渲染本模板（APP_HOST、APP_PORT）。
+server {
+    listen 80;
+    server_name _;
+    client_max_body_size 64k;
+
+    gzip on;
+    gzip_vary on;
+    gzip_min_length 1024;
+    gzip_proxied any;
+    gzip_types text/plain text/css application/javascript application/json image/svg+xml;
+
+    add_header X-Frame-Options "SAMEORIGIN" always;
+    add_header X-Content-Type-Options "nosniff" always;
+    add_header Referrer-Policy "strict-origin-when-cross-origin" always;
+
+    location / {
+        proxy_pass http://${APP_HOST}:${APP_PORT};
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_read_timeout 30s;
+    }
+
+    # 导购过程按步骤实时推送（server-sent events），不能缓冲
+    location = /api/chat/stream {
+        proxy_pass http://${APP_HOST}:${APP_PORT};
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_buffering off;
+        proxy_cache off;
+        proxy_read_timeout 60s;
+    }
+
+    # 版本化静态资源长缓存（路径里带构建号）
+    location /v/ {
+        proxy_pass http://${APP_HOST}:${APP_PORT};
+        proxy_set_header Host $host;
+        add_header Cache-Control "public, max-age=31536000, immutable";
+    }
+}

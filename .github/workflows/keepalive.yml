@@ -1,0 +1,13 @@
+name: keepalive
+# 免费托管空闲会休眠；每 10 分钟访问一次健康检查，避免首次打开等待冷启动。
+# 在仓库 Settings → Variables 设置 KEEPALIVE_URL（如 https://zhixuan.onrender.com）后生效。
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    if: ${{ vars.KEEPALIVE_URL != '' }}
+    steps:
+      - run: curl -fsS -m 60 "${{ vars.KEEPALIVE_URL }}/healthz"

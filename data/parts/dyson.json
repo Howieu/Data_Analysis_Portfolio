@@ -1,0 +1,536 @@
+{
+ "source": {
+  "name": "戴森官网",
+  "homepage": "https://www.dyson.cn/",
+  "fetchedAt": "2026-11-01T18:24:25+00:00",
+  "shippingPolicy": null
+ },
+ "products": [
+  {
+   "id": "dyson-177002-01",
+   "source": "戴森官网",
+   "sourceSku": "177002-01",
+   "url": "https://www.dyson.cn/177002-01.html",
+   "title": "Dyson Supersonic Nural™ 智能吹风机 HD16 （柔雾杏色）",
+   "brand": "戴森",
+   "model": "HD16",
+   "category": "hair-dryer",
+   "priceCents": 349900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "in_stock",
+   "images": [
+    "/img/dyson-177002-01.jpg"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "按距离自动调温",
+    "保护头皮屏障",
+    "秀发水润光泽"
+   ],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "dyson-264241-01",
+   "source": "戴森官网",
+   "sourceSku": "264241-01",
+   "url": "https://www.dyson.cn/264241-01.html",
+   "title": "Dyson Supersonic Co-anda 2x™ 造型吹风机 HS09 （柔雾杏色）",
+   "brand": "戴森",
+   "model": "HS09",
+   "category": "hair-dryer",
+   "priceCents": 399900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-264241-01.jpg"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "突破戴森吹风机巅峰，吹干、拉直、卷发，三合一"
+   ],
+   "observedAt": "2026-11-01T18:23:57+00:00"
+  },
+  {
+   "id": "dyson-448592-01",
+   "source": "戴森官网",
+   "sourceSku": "448592-01",
+   "url": "https://www.dyson.cn/448592-01-dyson-v12-origin.html",
+   "title": "Dyson V12 Origin 轻量吸尘器",
+   "brand": "戴森",
+   "model": "V12",
+   "category": "floor-cleaning",
+   "priceCents": 419900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-448592-01.png"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "戴森科技，精准应对全屋灰尘威胁",
+    "强悍性能轻巧掌握，整机 HEPA 过滤",
+    "120AW 吸力，人体工学设计"
+   ],
+   "observedAt": "2026-11-01T18:23:58+00:00"
+  },
+  {
+   "id": "dyson-448744-01",
+   "source": "戴森官网",
+   "sourceSku": "448744-01",
+   "url": "https://www.dyson.cn/448744-01-dyson-v10-digital-slim-nickel.html",
+   "title": "Dyson V10 Digital Slim 无绳吸尘器 (铁镍色）",
+   "brand": "戴森",
+   "model": "V10",
+   "category": "floor-cleaning",
+   "priceCents": 369900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-448744-01.png"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "100AW 轻而强劲",
+    "更轻更小更省力",
+    "升级防缠绕螺旋形吸头"
+   ],
+   "observedAt": "2026-11-01T18:23:58+00:00"
+  },
+  {
+   "id": "dyson-464390-01",
+   "source": "戴森官网",
+   "sourceSku": "464390-01",
+   "url": "https://www.dyson.cn/464390-01-dyson-supersonic-hd16-vinca-blue-topaz.html",
+   "title": "Dyson Supersonic Nural™ 吹风机 HD16 （湛蓝紫色）",
+   "brand": "戴森",
+   "model": "HD16",
+   "category": "hair-dryer",
+   "priceCents": 349900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-464390-01.png"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "按距离自动调温",
+    "保护头皮屏障",
+    "秀发水润光泽"
+   ],
+   "observedAt": "2026-11-01T18:23:58+00:00"
+  },
+  {
+   "id": "dyson-473817-01",
+   "source": "戴森官网",
+   "sourceSku": "473817-01",
+   "url": "https://www.dyson.cn/473817-01-dyson-wash-g1.html",
+   "title": "Dyson WashG1洗地机",
+   "brand": "戴森",
+   "model": null,
+   "category": "floor-cleaning",
+   "priceCents": 499900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "in_stock",
+   "images": [
+    "/img/dyson-473817-01.png"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "高效清除粘腻及顽固污垢",
+    "自动固液分离，垃圾处理不脏手",
+    "99.9% 除菌率，地面清洗更卫生"
+   ],
+   "observedAt": "2026-11-01T18:23:58+00:00"
+  },
+  {
+   "id": "dyson-HD19-492450-01",
+   "source": "戴森官网",
+   "sourceSku": "HD19-492450-01",
+   "url": "https://www.dyson.cn/492450-01.html",
+   "title": "Dyson Supersonic™ Travel 随行吹风机",
+   "brand": "戴森",
+   "model": null,
+   "category": "hair-dryer",
+   "priceCents": 189900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-HD19-492450-01.jpg"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "小32%，轻 25%",
+    "出行，依然戴森"
+   ],
+   "observedAt": "2026-11-01T18:23:58+00:00"
+  },
+  {
+   "id": "dyson-492586-01",
+   "source": "戴森官网",
+   "sourceSku": "492586-01",
+   "url": "https://www.dyson.cn/492586-01-dyson-v12-detect-slim-fluffy-blue.html",
+   "title": "Dyson V12 Detect Slim™ Fluffy 无绳吸尘器 （蓝色）",
+   "brand": "戴森",
+   "model": "V12",
+   "category": "floor-cleaning",
+   "priceCents": 489900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-492586-01.png"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "光学探测让隐藏的微尘显形配件及过滤系统全新升级戴森最强轻量吸尘器"
+   ],
+   "observedAt": "2026-11-01T18:23:58+00:00"
+  },
+  {
+   "id": "dyson-492587-01",
+   "source": "戴森官网",
+   "sourceSku": "492587-01",
+   "url": "https://www.dyson.cn/492587-01-dyson-v8-hh.html",
+   "title": "Dyson V8 手持除螨吸尘器",
+   "brand": "戴森",
+   "model": "V8",
+   "category": "floor-cleaning",
+   "priceCents": 229900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "in_stock",
+   "images": [
+    "/img/dyson-492587-01.png"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "戴森最强手持除螨吸尘器",
+    "深层除螨显著优于UV技术",
+    "99.9% 高效除螨"
+   ],
+   "observedAt": "2026-11-01T18:23:58+00:00"
+  },
+  {
+   "id": "dyson-492631-01",
+   "source": "戴森官网",
+   "sourceSku": "492631-01",
+   "url": "https://www.dyson.cn/492631-01-dyson-v10n-digital-slim-nautik.html",
+   "title": "Dyson V10n Digital Slim Nautik™多功能手持吸尘器",
+   "brand": "戴森",
+   "model": "V10n",
+   "category": "floor-cleaning",
+   "priceCents": 449900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-492631-01.png"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "轻量V10最全能，干湿清洁五合一",
+    "0毫米贴边，高效吸除地面微尘",
+    "灵活洗地，一次推拉清洁率95%"
+   ],
+   "observedAt": "2026-11-01T18:23:58+00:00"
+  },
+  {
+   "id": "dyson-505143-01",
+   "source": "戴森官网",
+   "sourceSku": "505143-01",
+   "url": "https://www.dyson.cn/505143-01-dyson-supersonic-hd08-hair-dryer-red.html",
+   "title": "Dyson Supersonic™ 吹风机 HD08 入门套装 红色",
+   "brand": "戴森",
+   "model": "HD08",
+   "category": "hair-dryer",
+   "priceCents": 279900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-505143-01.png"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "戴森专利 V9 数码马达",
+    "3 倍气流倍增快速干发",
+    "呵护头发自然光泽"
+   ],
+   "observedAt": "2026-11-01T18:23:58+00:00"
+  },
+  {
+   "id": "dyson-522276-01",
+   "source": "戴森官网",
+   "sourceSku": "522276-01",
+   "url": "https://www.dyson.cn/522276-01-dyson-supersonic-hd18-505d.html",
+   "title": "Dyson Supersonic r™精准造型吹风机专业版 HD18（湛蓝紫色）",
+   "brand": "戴森",
+   "model": "HD18",
+   "category": "hair-dryer",
+   "priceCents": 379900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-522276-01.png"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "更小更轻，快速干发",
+    "为造型师设计"
+   ],
+   "observedAt": "2026-11-01T18:24:00+00:00"
+  },
+  {
+   "id": "dyson-533475-01",
+   "source": "戴森官网",
+   "sourceSku": "533475-01",
+   "url": "https://www.dyson.cn/533475-01-dyson-hd17-t1-t2-cn-ph-cepk-rosegd.html",
+   "title": "Dyson Supersonic r™ 精准造型吹风机 HD17 （晨曦粉）",
+   "brand": "戴森",
+   "model": "HD17",
+   "category": "hair-dryer",
+   "priceCents": 379900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "in_stock",
+   "images": [
+    "/img/dyson-533475-01.jpg"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "沙龙级美发科技",
+    "更小更轻更快",
+    "造型更高效"
+   ],
+   "observedAt": "2026-11-01T18:24:01+00:00"
+  },
+  {
+   "id": "dyson-571451-01",
+   "source": "戴森官网",
+   "sourceSku": "571451-01",
+   "url": "https://www.dyson.cn/571451-01-571h-cnc-aluminium.html",
+   "title": "Dyson Ontrac™ 降噪耳机（锋芒银）",
+   "brand": "戴森",
+   "model": null,
+   "category": "earphones",
+   "priceCents": 389900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-571451-01.png"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "声来出彩，耳机外壳自定义",
+    "先进降噪实力，主被动降噪可消除噪音高达40分贝",
+    "宽广音域表现，配备40毫米钕磁扬声器呈现丰富细节",
+    "种种精妙，为全天候舒适佩戴而设计"
+   ],
+   "observedAt": "2026-11-01T18:24:03+00:00"
+  },
+  {
+   "id": "dyson-940-630954-01",
+   "source": "戴森官网",
+   "sourceSku": "940-630954-01",
+   "url": "https://www.dyson.cn/630954-01.html",
+   "title": "Dyson HushJet™ Mini Cool 迷你酷风扇 （柔雾粉）",
+   "brand": "戴森",
+   "model": null,
+   "category": "portable-fan",
+   "priceCents": 79900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "in_stock",
+   "images": [
+    "/img/dyson-940-630954-01.jpg"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "强劲·安静",
+    "瞬息吹送凉感"
+   ],
+   "observedAt": "2026-11-01T18:24:09+00:00"
+  },
+  {
+   "id": "dyson-970A-637243-01",
+   "source": "戴森官网",
+   "sourceSku": "970A-637243-01",
+   "url": "https://www.dyson.cn/637243-01.html",
+   "title": "Dyson PencilWash™ 洗地机",
+   "brand": "戴森",
+   "model": null,
+   "category": "floor-cleaning",
+   "priceCents": 249900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-970A-637243-01.jpg"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:24:09+00:00"
+  },
+  {
+   "id": "dyson-637634-01",
+   "source": "戴森官网",
+   "sourceSku": "637634-01",
+   "url": "https://www.dyson.cn/637634-01.html",
+   "title": "Dyson V10 optic 无绳吸尘器",
+   "brand": "戴森",
+   "model": "V10",
+   "category": "floor-cleaning",
+   "priceCents": 399900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-637634-01.jpg"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "V10 全新升级光学探测，配备整机 HEPA 过滤",
+    "除尘率 99.5%，过滤 99.99%",
+    "小至 0.1 微米颗粒物"
+   ],
+   "observedAt": "2026-11-01T18:24:09+00:00"
+  },
+  {
+   "id": "dyson-113284-01",
+   "source": "戴森官网",
+   "sourceSku": "113284-01",
+   "url": "https://www.dyson.cn/dyson-113284-01-hd08.html",
+   "title": "Dyson Supersonic™ 吹风机 HD08 防飞翘入门款（藏青铜色）",
+   "brand": "戴森",
+   "model": "HD08",
+   "category": "hair-dryer",
+   "priceCents": 299900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-113284-01.jpg"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "一次减少高达62%的飞翘"
+   ],
+   "observedAt": "2026-11-01T18:24:09+00:00"
+  },
+  {
+   "id": "dyson-426450-01",
+   "source": "戴森官网",
+   "sourceSku": "426450-01",
+   "url": "https://www.dyson.cn/dyson-426450-01-hygiene-911.html",
+   "title": "Dyson Clean+Wash Hygiene 洗地机",
+   "brand": "戴森",
+   "model": null,
+   "category": "floor-cleaning",
+   "priceCents": 349900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-426450-01.jpg"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "干湿全能，洁净洗地污渍去除率高达 99%避免异味喷发无管道堵塞"
+   ],
+   "observedAt": "2026-11-01T18:24:15+00:00"
+  },
+  {
+   "id": "dyson-492713-01",
+   "source": "戴森官网",
+   "sourceSku": "492713-01",
+   "url": "https://www.dyson.cn/dyson-492713-01-pencilvac.html",
+   "title": "Dyson Pencilvac™ 铅笔吸尘器",
+   "brand": "戴森",
+   "model": null,
+   "category": "floor-cleaning",
+   "priceCents": 399900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-492713-01.jpg"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [
+    "极致纤巧，长发零缠绕"
+   ],
+   "observedAt": "2026-11-01T18:24:15+00:00"
+  },
+  {
+   "id": "dyson-496042-01",
+   "source": "戴森官网",
+   "sourceSku": "496042-01",
+   "url": "https://www.dyson.cn/dyson-496042-01-vacuum.html",
+   "title": "Dyson Piston Animal V16 无绳吸尘器",
+   "brand": "戴森",
+   "model": "V16",
+   "category": "floor-cleaning",
+   "priceCents": 629900,
+   "listPriceCents": null,
+   "shippingCents": null,
+   "shippingNote": null,
+   "stock": "out_of_stock",
+   "images": [
+    "/img/dyson-496042-01.jpg"
+   ],
+   "specs": {},
+   "facts": {},
+   "highlights": [],
+   "observedAt": "2026-11-01T18:24:15+00:00"
+  }
+ ]
+}

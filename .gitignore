@@ -1,0 +1,9 @@
+var/
+data/raw/
+__pycache__/
+node_modules/
+test/.e2e-*
+review/
+.env
+.env.*
+!.env.example

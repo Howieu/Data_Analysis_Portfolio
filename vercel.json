@@ -1,0 +1,1 @@
+{"framework":null,"installCommand":"","buildCommand":"","outputDirectory":"static","functions":{"api/index.mjs":{"includeFiles":"{data/catalog.json,data/posts.json,data/embeddings.json,public/**,lib/**,server.mjs}","maxDuration":30}},"rewrites":[{"source":"/(.*)","destination":"/api/index"}],"regions":["sin1"]}

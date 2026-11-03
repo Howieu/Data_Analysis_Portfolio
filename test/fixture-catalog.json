@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-11-02T00:00:00.000Z",
+  "sources": [
+    { "name": "甲商城", "homepage": "https://a.example", "shippingPolicy": { "freeOverCents": 9900, "feeCents": 1000, "evidenceUrl": "https://a.example/help", "evidenceText": "满99包邮，否则运费10元" } },
+    { "name": "乙商城", "homepage": "https://b.example", "shippingPolicy": null }
+  ],
+  "categories": [
+    { "id": "earbuds", "name": "耳机", "aliases": ["耳机", "蓝牙耳机", "降噪耳机"] },
+    { "id": "keyboard", "name": "键盘", "aliases": ["键盘", "机械键盘"] },
+    { "id": "fan", "name": "便携风扇", "aliases": ["便携风扇", "小风扇", "手持风扇", "风扇"] },
+    { "id": "box", "name": "收纳盒", "aliases": ["收纳盒"] }
+  ],
+  "products": [
+    { "id": "e1", "source": "甲商城", "title": "入耳式降噪耳机 E1", "brand": "声甲", "category": "earbuds", "priceCents": 19900, "shippingCents": null, "facts": { "wireless": true, "noiseCancelling": true, "batteryMah": 500 }, "observedAt": "2026-11-02T00:00:00.000Z", "images": [] },
+    { "id": "e2", "source": "甲商城", "title": "头戴式耳机 E2", "brand": "声甲", "category": "earbuds", "priceCents": 32900, "shippingCents": null, "facts": { "wireless": true, "noiseCancelling": false }, "observedAt": "2026-11-02T00:00:00.000Z", "images": [] },
+    { "id": "e3", "source": "乙商城", "title": "入耳式耳机 E3", "brand": "声乙", "category": "earbuds", "priceCents": 9900, "shippingCents": null, "facts": { "wireless": null }, "observedAt": "2026-11-02T00:00:00.000Z", "images": [] },
+    { "id": "k1", "source": "甲商城", "title": "静音无线键盘 K1", "brand": "键甲", "category": "keyboard", "priceCents": 29900, "shippingCents": null, "facts": { "wireless": true, "noiseDb": 35 }, "observedAt": "2026-11-02T00:00:00.000Z", "images": [] },
+    { "id": "k2", "source": "甲商城", "title": "机械键盘 K2", "brand": "键甲", "category": "keyboard", "priceCents": 18900, "shippingCents": null, "facts": { "wireless": false, "noiseDb": 55 }, "observedAt": "2026-11-02T00:00:00.000Z", "images": [] },
+    { "id": "k3", "source": "甲商城", "title": "旧价键盘 K3", "brand": "键甲", "category": "keyboard", "priceCents": 9900, "shippingCents": null, "facts": {}, "observedAt": "2026-09-01T00:00:00.000Z", "images": [] },
+    { "id": "f1", "source": "乙商城", "title": "手持小风扇 F1", "brand": "风乙", "category": "fan", "priceCents": 8900, "shippingCents": null, "facts": { "batteryMah": 4000, "weightG": 180, "windSpeed": 8 }, "observedAt": "2026-11-02T00:00:00.000Z", "images": [] },
+    { "id": "f2", "source": "甲商城", "title": "手持小风扇 F2", "brand": "风甲", "category": "fan", "priceCents": 5900, "shippingCents": null, "facts": { "batteryMah": 2000, "weightG": 150 }, "observedAt": "2026-11-02T00:00:00.000Z", "images": [] },
+    { "id": "b1", "source": "甲商城", "title": "桌面收纳盒 B1", "brand": "收甲", "category": "box", "priceCents": 2900, "shippingCents": 0, "facts": {}, "observedAt": "2026-11-02T00:00:00.000Z", "images": [] }
+  ]
+}

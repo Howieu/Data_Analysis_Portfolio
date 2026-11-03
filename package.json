@@ -1,0 +1,18 @@
+{
+  "name": "zhixuan",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.mjs",
+    "test": "node --test test/engine.test.mjs",
+    "bench": "node bench/run.mjs",
+    "bench:shift": "node bench/run.mjs --shift-days 30",
+    "scan:copy": "node test/scan-copy.mjs",
+    "validate:data": "node scripts/sku/validate.mjs",
+    "e2e": "node test/e2e.mjs"
+  }
+}
